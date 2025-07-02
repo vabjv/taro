@@ -2,7 +2,7 @@
   "miniprogramRoot": "./dist",
   "projectname": "miniProgram",
   "description": "微信小程序",
-  "appid": "wx4ba42e2b1c08bed6",
+  "appid": "wx3de0567e4f64bb42",
   "setting": {
     "urlCheck": true,
     "es6": false,
