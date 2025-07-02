@@ -18,7 +18,8 @@
       "@/*": ["./src/*"],
       "@@/*": ["./src/.umi/*"],
       "@@test/*": ["./src/.umi-test/*"]
-    }
+    },
+    "types": ["@tarojs/runtime", "@tarojs/components"]
   },
   "include": ["./src", "./types", "./config", "./**/*.ts", "./**/*.tsx", "./**/*.d.ts"],
   "exclude": ["node_modules"],

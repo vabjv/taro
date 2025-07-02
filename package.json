@@ -85,7 +85,6 @@
     "@tarojs/taro-loader": "4.1.1",
     "@tarojs/webpack5-runner": "4.1.1",
     "@types/node": "^18",
-    "@types/react": "^18.0.0",
     "@types/webpack-env": "^1.13.6",
     "babel-preset-taro": "4.1.1",
     "eslint": "^8.57.0",
