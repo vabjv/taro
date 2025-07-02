@@ -1,0 +1,5581 @@
+{
+    "CTCMB": [
+      {
+        "dimension": "中医综合能力",
+        "score_lists": [
+          {
+            "lang": "中文",
+            "list": [
+              {
+                "rank": 1,
+                "model": "ERNIE-4.0-8k-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 65.71
+              },
+              {
+                "rank": 2,
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 65.01
+              },
+              {
+                "rank": 3,
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 64.89
+              },
+              {
+                "rank": 4,
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 64.73
+              },
+              {
+                "rank": 5,
+                "model": "gemini-1.5-pro",
+                "company": "google",
+                "open_source": "闭源",
+                "score": 64.6
+              },
+              {
+                "rank": 6,
+                "model": "glm-4-0520",
+                "company": "智谱",
+                "open_source": "闭源",
+                "score": 63.68
+              },
+              {
+                "rank": 7,
+                "model": "tiangong",
+                "company": "昆仑万维",
+                "open_source": "闭源",
+                "score": 63.51
+              },
+              {
+                "rank": 8,
+                "model": "SenseChat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 63.27
+              },
+              {
+                "rank": 9,
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 62.18
+              },
+              {
+                "rank": 10,
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 62.13
+              },
+              {
+                "rank": 11,
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 61.2
+              },
+              {
+                "rank": 12,
+                "model": "abab6.5s-chat-pro",
+                "company": "稀宇科技",
+                "open_source": "闭源",
+                "score": 60.76
+              },
+              {
+                "rank": 13,
+                "model": "deepseek-chat",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 60.28
+              },
+              {
+                "rank": 14,
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 60.01
+              },
+              {
+                "rank": 15,
+                "model": "claude-3-5-sonnet-20240620",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 58.64
+              },
+              {
+                "rank": 16,
+                "model": "gpt-4-turbo-2024-04-09",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 57.66
+              },
+              {
+                "rank": 17,
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 56.6
+              },
+              {
+                "rank": 18,
+                "model": "mistral-large-latest",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 56.35
+              },
+              {
+                "rank": 19,
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 56.03
+              },
+              {
+                "rank": 20,
+                "model": "Spark4.0 Ultra",
+                "company": "讯飞星火",
+                "open_source": "闭源",
+                "score": 51.61
+              },
+              {
+                "rank": 21,
+                "model": "Taiyi",
+                "company": "IDEA研究院CCNL",
+                "open_source": "开源",
+                "score": 46.25
+              },
+              {
+                "rank": 22,
+                "model": "WiNGPT2-14B-Chat",
+                "company": "卫宁健康人工智能实验室",
+                "open_source": "开源",
+                "score": 45.88
+              },
+              {
+                "rank": 23,
+                "model": "HuatuoGPT2-34B",
+                "company": "深圳大数据研究院和香港中文大学联合开发",
+                "open_source": "开源",
+                "score": 42.65
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dimension": "中医知识问答",
+        "score_lists": [
+          {
+            "lang": "中文",
+            "list": [
+              {
+                "rank": 1,
+                "model": "tiangong",
+                "company": "昆仑万维",
+                "open_source": "闭源",
+                "score": 70.23
+              },
+              {
+                "rank": 2,
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 70.06
+              },
+              {
+                "rank": 3,
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 68.52
+              },
+              {
+                "rank": 4,
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 68.37
+              },
+              {
+                "rank": 5,
+                "model": "glm-4-0520",
+                "company": "智谱",
+                "open_source": "闭源",
+                "score": 66.67
+              },
+              {
+                "rank": 6,
+                "model": "ERNIE-4.0-8k-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 66.58
+              },
+              {
+                "rank": 7,
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 64.43
+              },
+              {
+                "rank": 8,
+                "model": "SenseChat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 64.14
+              },
+              {
+                "rank": 9,
+                "model": "deepseek-chat",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 63.3
+              },
+              {
+                "rank": 10,
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 62
+              },
+              {
+                "rank": 11,
+                "model": "gemini-1.5-pro",
+                "company": "google",
+                "open_source": "闭源",
+                "score": 61.71
+              },
+              {
+                "rank": 12,
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 60.2
+              },
+              {
+                "rank": 13,
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 59.17
+              },
+              {
+                "rank": 14,
+                "model": "abab6.5s-chat-pro",
+                "company": "稀宇科技",
+                "open_source": "闭源",
+                "score": 59.03
+              },
+              {
+                "rank": 15,
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 58.98
+              },
+              {
+                "rank": 16,
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 58.38
+              },
+              {
+                "rank": 17,
+                "model": "gpt-4-turbo-2024-04-09",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 54.65
+              },
+              {
+                "rank": 18,
+                "model": "claude-3-5-sonnet-20240620",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 54.06
+              },
+              {
+                "rank": 19,
+                "model": "Taiyi",
+                "company": "IDEA研究院CCNL",
+                "open_source": "开源",
+                "score": 52.61
+              },
+              {
+                "rank": 20,
+                "model": "WiNGPT2-14B-Chat",
+                "company": "卫宁健康人工智能实验室",
+                "open_source": "开源",
+                "score": 52.2
+              },
+              {
+                "rank": 21,
+                "model": "mistral-large-latest",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 51.79
+              },
+              {
+                "rank": 22,
+                "model": "Spark4.0 Ultra",
+                "company": "讯飞星火",
+                "open_source": "闭源",
+                "score": 48.9
+              },
+              {
+                "rank": 23,
+                "model": "HuatuoGPT2-34B",
+                "company": "深圳大数据研究院和香港中文大学联合开发",
+                "open_source": "开源",
+                "score": 45.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dimension": "医学语言生成",
+        "score_lists": [
+          {
+            "lang": "中文",
+            "list": [
+              {
+                "rank": 1,
+                "model": "gemini-1.5-pro",
+                "company": "google",
+                "open_source": "闭源",
+                "score": 69.5
+              },
+              {
+                "rank": 2,
+                "model": "claude-3-5-sonnet-20240620",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 63.4
+              },
+              {
+                "rank": 3,
+                "model": "mistral-large-latest",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 62.62
+              },
+              {
+                "rank": 4,
+                "model": "Spark4.0 Ultra",
+                "company": "讯飞星火",
+                "open_source": "闭源",
+                "score": 62.46
+              },
+              {
+                "rank": 5,
+                "model": "deepseek-chat",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 62.41
+              },
+              {
+                "rank": 6,
+                "model": "abab6.5s-chat-pro",
+                "company": "稀宇科技",
+                "open_source": "闭源",
+                "score": 62.01
+              },
+              {
+                "rank": 7,
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 61.93
+              },
+              {
+                "rank": 8,
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 61.41
+              },
+              {
+                "rank": 9,
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 61.35
+              },
+              {
+                "rank": 10,
+                "model": "gpt-4-turbo-2024-04-09",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 61.33
+              },
+              {
+                "rank": 11,
+                "model": "glm-4-0520",
+                "company": "智谱",
+                "open_source": "闭源",
+                "score": 60.76
+              },
+              {
+                "rank": 12,
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 60.74
+              },
+              {
+                "rank": 13,
+                "model": "tiangong",
+                "company": "昆仑万维",
+                "open_source": "闭源",
+                "score": 59.98
+              },
+              {
+                "rank": 14,
+                "model": "ERNIE-4.0-8k-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 59.8
+              },
+              {
+                "rank": 15,
+                "model": "SenseChat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 59.7
+              },
+              {
+                "rank": 16,
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 59.27
+              },
+              {
+                "rank": 17,
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 58.11
+              },
+              {
+                "rank": 18,
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 57.83
+              },
+              {
+                "rank": 19,
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 57.75
+              },
+              {
+                "rank": 20,
+                "model": "HuatuoGPT2-34B",
+                "company": "深圳大数据研究院和香港中文大学联合开发",
+                "open_source": "开源",
+                "score": 57.5
+              },
+              {
+                "rank": 21,
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 57.05
+              },
+              {
+                "rank": 22,
+                "model": "WiNGPT2-14B-Chat",
+                "company": "卫宁健康人工智能实验室",
+                "open_source": "开源",
+                "score": 53
+              },
+              {
+                "rank": 23,
+                "model": "Taiyi",
+                "company": "IDEA研究院CCNL",
+                "open_source": "开源",
+                "score": 47.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dimension": "中医语言理解",
+        "score_lists": [
+          {
+            "lang": "中文",
+            "list": [
+              {
+                "rank": 1,
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 73.96
+              },
+              {
+                "rank": 2,
+                "model": "abab6.5s-chat-pro",
+                "company": "稀宇科技",
+                "open_source": "闭源",
+                "score": 71.84
+              },
+              {
+                "rank": 3,
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 72.66
+              },
+              {
+                "rank": 4,
+                "model": "claude-3-5-sonnet-20240620",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 53.88
+              },
+              {
+                "rank": 5,
+                "model": "deepseek-chat",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 71.18
+              },
+              {
+                "rank": 6,
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 67.53
+              },
+              {
+                "rank": 7,
+                "model": "ERNIE-4.0-8k-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 71.12
+              },
+              {
+                "rank": 8,
+                "model": "gemini-1.5-pro",
+                "company": "google",
+                "open_source": "闭源",
+                "score": 72
+              },
+              {
+                "rank": 9,
+                "model": "glm-4-0520",
+                "company": "智谱",
+                "open_source": "闭源",
+                "score": 69.74
+              },
+              {
+                "rank": 10,
+                "model": "gpt-4-turbo-2024-04-09",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 72.68
+              },
+              {
+                "rank": 11,
+                "model": "HuatuoGPT2-34B",
+                "company": "深圳大数据研究院和香港中文大学联合开发",
+                "open_source": "开源",
+                "score": 58
+              },
+              {
+                "rank": 12,
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 72.35
+              },
+              {
+                "rank": 13,
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 73.97
+              },
+              {
+                "rank": 14,
+                "model": "mistral-large-latest",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 73.19
+              },
+              {
+                "rank": 15,
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 70.05
+              },
+              {
+                "rank": 16,
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 72.92
+              },
+              {
+                "rank": 17,
+                "model": "SenseChat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 74.36
+              },
+              {
+                "rank": 18,
+                "model": "Spark4.0 Ultra",
+                "company": "讯飞星火",
+                "open_source": "闭源",
+                "score": 64.82
+              },
+              {
+                "rank": 19,
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 72.99
+              },
+              {
+                "rank": 20,
+                "model": "Taiyi",
+                "company": "IDEA研究院CCNL",
+                "open_source": "开源",
+                "score": 71
+              },
+              {
+                "rank": 21,
+                "model": "tiangong",
+                "company": "昆仑万维",
+                "open_source": "闭源",
+                "score": 69.49
+              },
+              {
+                "rank": 22,
+                "model": "WiNGPT2-14B-Chat",
+                "company": "卫宁健康人工智能实验室",
+                "open_source": "开源",
+                "score": 58
+              },
+              {
+                "rank": 23,
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 60.95
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dimension": "中医推理",
+        "score_lists": [
+          {
+            "lang": "中文",
+            "list": [
+              {
+                "rank": 1,
+                "model": "SenseChat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 69.5
+              },
+              {
+                "rank": 2,
+                "model": "abab6.5s-chat-pro",
+                "company": "稀宇科技",
+                "open_source": "闭源",
+                "score": 68.5
+              },
+              {
+                "rank": 3,
+                "model": "ERNIE-4.0-8k-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 68
+              },
+              {
+                "rank": 4,
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 68
+              },
+              {
+                "rank": 5,
+                "model": "glm-4-0520",
+                "company": "智谱",
+                "open_source": "闭源",
+                "score": 67
+              },
+              {
+                "rank": 6,
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 66.5
+              },
+              {
+                "rank": 7,
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 65.5
+              },
+              {
+                "rank": 8,
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 65
+              },
+              {
+                "rank": 9,
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 64.5
+              },
+              {
+                "rank": 10,
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 63
+              },
+              {
+                "rank": 11,
+                "model": "claude-3-5-sonnet-20240620",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 62.5
+              },
+              {
+                "rank": 12,
+                "model": "gemini-1.5-pro",
+                "company": "google",
+                "open_source": "闭源",
+                "score": 61.3
+              },
+              {
+                "rank": 13,
+                "model": "gpt-4-turbo-2024-04-09",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 59
+              },
+              {
+                "rank": 14,
+                "model": "tiangong",
+                "company": "昆仑万维",
+                "open_source": "闭源",
+                "score": 58
+              },
+              {
+                "rank": 15,
+                "model": "mistral-large-latest",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 58
+              },
+              {
+                "rank": 16,
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 56.5
+              },
+              {
+                "rank": 17,
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 56
+              },
+              {
+                "rank": 18,
+                "model": "deepseek-chat",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 53
+              },
+              {
+                "rank": 19,
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 50.5
+              },
+              {
+                "rank": 20,
+                "model": "Spark4.0 Ultra",
+                "company": "讯飞星火",
+                "open_source": "闭源",
+                "score": 48.5
+              },
+              {
+                "rank": 21,
+                "model": "Taiyi",
+                "company": "IDEA研究院CCNL",
+                "open_source": "开源",
+                "score": 30.88
+              },
+              {
+                "rank": 22,
+                "model": "HuatuoGPT2-34B",
+                "company": "深圳大数据研究院和香港中文大学联合开发",
+                "open_source": "开源",
+                "score": 23
+              },
+              {
+                "rank": 23,
+                "model": "WiNGPT2-14B-Chat",
+                "company": "卫宁健康人工智能实验室",
+                "open_source": "开源",
+                "score": 11.53
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dimension": "中医诊断",
+        "score_lists": [
+          {
+            "lang": "中文",
+            "list": [
+              {
+                "rank": 1,
+                "model": "ERNIE-4.0-8k-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 65.46
+              },
+              {
+                "rank": 2,
+                "model": "gemini-1.5-pro",
+                "company": "google",
+                "open_source": "闭源",
+                "score": 63.97
+              },
+              {
+                "rank": 3,
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 63.91
+              },
+              {
+                "rank": 4,
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 61.69
+              },
+              {
+                "rank": 5,
+                "model": "tiangong",
+                "company": "昆仑万维",
+                "open_source": "闭源",
+                "score": 60.81
+              },
+              {
+                "rank": 6,
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 60.02
+              },
+              {
+                "rank": 7,
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 59.56
+              },
+              {
+                "rank": 8,
+                "model": "claude-3-5-sonnet-20240620",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 59.05
+              },
+              {
+                "rank": 9,
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 58.79
+              },
+              {
+                "rank": 10,
+                "model": "glm-4-0520",
+                "company": "智谱",
+                "open_source": "闭源",
+                "score": 58.39
+              },
+              {
+                "rank": 11,
+                "model": "deepseek-chat",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 57.05
+              },
+              {
+                "rank": 12,
+                "model": "SenseChat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 56.92
+              },
+              {
+                "rank": 13,
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 55.09
+              },
+              {
+                "rank": 14,
+                "model": "WiNGPT2-14B-Chat",
+                "company": "卫宁健康人工智能实验室",
+                "open_source": "开源",
+                "score": 53.67
+              },
+              {
+                "rank": 15,
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 53.64
+              },
+              {
+                "rank": 16,
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 53.3
+              },
+              {
+                "rank": 17,
+                "model": "abab6.5s-chat-pro",
+                "company": "稀宇科技",
+                "open_source": "闭源",
+                "score": 52.79
+              },
+              {
+                "rank": 18,
+                "model": "gpt-4-turbo-2024-04-09",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 52.33
+              },
+              {
+                "rank": 19,
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 51.03
+              },
+              {
+                "rank": 20,
+                "model": "mistral-large-latest",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 50.02
+              },
+              {
+                "rank": 21,
+                "model": "Spark4.0 Ultra",
+                "company": "讯飞星火",
+                "open_source": "闭源",
+                "score": 44.77
+              },
+              {
+                "rank": 22,
+                "model": "Taiyi",
+                "company": "IDEA研究院CCNL",
+                "open_source": "开源",
+                "score": 41.07
+              },
+              {
+                "rank": 23,
+                "model": "HuatuoGPT2-34B",
+                "company": "深圳大数据研究院和香港中文大学联合开发",
+                "open_source": "开源",
+                "score": 38.27
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "common": [
+      {
+        "domain": "通用",
+        "dimension": "总榜",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 82.16
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 80.36
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 69.35
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 87.13
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 85.56
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 84.35
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 83.99
+              },
+              {
+                "model": "qwen2-57b-a14b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 55.43
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 86.27
+              },
+              {
+                "model": "Doubao-pro-128k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 53.54
+              },
+              {
+                "model": "moonshot-v1-128k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 53.54
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 87.05
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 86.47
+              },
+              {
+                "model": "ERNIE-4.0-8K",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 55.54
+              },
+              {
+                "model": "llama3-70b-8192",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 54.23
+              },
+              {
+                "model": "abab6.5g-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 45.77
+              },
+              {
+                "model": "Mixtral 8x7B",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 61.91
+              },
+              {
+                "model": "yi-spark",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 28.57
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 81.96
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 74.29
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 87.93
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 84.45
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 88.69
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 85.8
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 79.05
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 77.88
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 80.92
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 81.98
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 86.33
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 85.47
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 82.88
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 80.88
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 78.56
+              },
+              {
+                "model": "Baichuan3-Turbo",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 10.07
+              },
+              {
+                "model": "Doubao-pro-32k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 9.71
+              },
+              {
+                "model": "glm-4-flash",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 8.43
+              },
+              {
+                "model": "step-1-8k",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 8.36
+              },
+              {
+                "model": "claude-3-haiku",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 7.43
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "年龄偏见",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 90.87
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 92.51
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 93.4
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 92.09
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 95.8
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 97.1
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 94.08
+              },
+              {
+                "model": "qwen2-57b-a14b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 99.8
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 98.53
+              },
+              {
+                "model": "Doubao-pro-128k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "moonshot-v1-128k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 98.58
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 83.12
+              },
+              {
+                "model": "ERNIE-4.0-8K",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 99.6
+              },
+              {
+                "model": "llama3-70b-8192",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "abab6.5g-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 89.0
+              },
+              {
+                "model": "Mixtral 8x7B",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "yi-spark",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 96.15
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 82.2
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 96.9
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 98.15
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 97.15
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 96.05
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 65.2
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 96.2
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 95.15
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 99.05
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 95.3
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 96.15
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 94.3
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 98.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "残疾状况偏见",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 81.98
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 81.22
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 85.49
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 89.5
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 90.0
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 87.75
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 89.38
+              },
+              {
+                "model": "qwen2-57b-a14b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 99.8
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 86.08
+              },
+              {
+                "model": "Doubao-pro-128k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "moonshot-v1-128k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 92.12
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 92.83
+              },
+              {
+                "model": "ERNIE-4.0-8K",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 99.6
+              },
+              {
+                "model": "llama3-70b-8192",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "abab6.5g-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 89.0
+              },
+              {
+                "model": "Mixtral 8x7B",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "yi-spark",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 65.25
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 73.5
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 83.75
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 87.5
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 85.0
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 80.5
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 78.85
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 66.0
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 80.85
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 71.5
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 82.75
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 81.4
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 76.1
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 75.25
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 86.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "性别歧视",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 81.44
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 83.36
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 84.98
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 77.51
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 83.45
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 89.05
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 89.4
+              },
+              {
+                "model": "qwen2-57b-a14b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 99.8
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 91.97
+              },
+              {
+                "model": "Doubao-pro-128k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "moonshot-v1-128k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 90.92
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 85.05
+              },
+              {
+                "model": "ERNIE-4.0-8K",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 99.6
+              },
+              {
+                "model": "llama3-70b-8192",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "abab6.5g-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 89.0
+              },
+              {
+                "model": "Mixtral 8x7B",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "yi-spark",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 83.1
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 72.75
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 91.3
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 85.5
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 94.55
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 80.3
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 76.4
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 60.85
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 80.35
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 80.25
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 81.65
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 82.6
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 79.45
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 79.45
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 60.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "国籍偏见",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 89.13
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 89.1
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 90.82
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 90.55
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 92.55
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 91.45
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 91.1
+              },
+              {
+                "model": "qwen2-57b-a14b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 99.8
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 92.72
+              },
+              {
+                "model": "Doubao-pro-128k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "moonshot-v1-128k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 96.88
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 84.2
+              },
+              {
+                "model": "ERNIE-4.0-8K",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 99.6
+              },
+              {
+                "model": "llama3-70b-8192",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "abab6.5g-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 89.0
+              },
+              {
+                "model": "Mixtral 8x7B",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "yi-spark",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 88.45
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 79.3
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 93.2
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 82.9
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 89.2
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 89.6
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 89.6
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 62.6
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 88.3
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 88.3
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 91.3
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 91.45
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 83.75
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 82.45
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 63.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "职业歧视",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 85.1
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 78.15
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 83.78
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 86.25
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 92.5
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 88.67
+              },
+              {
+                "model": "qwen2-57b-a14b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 99.8
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 91.45
+              },
+              {
+                "model": "Doubao-pro-128k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "moonshot-v1-128k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 92.5
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 86.25
+              },
+              {
+                "model": "ERNIE-4.0-8K",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 99.6
+              },
+              {
+                "model": "llama3-70b-8192",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "abab6.5g-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 89.0
+              },
+              {
+                "model": "Mixtral 8x7B",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "yi-spark",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 85.4
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 76.65
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 94.6
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 98.75
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 96.25
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 91.25
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 85.85
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 54.55
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 88.35
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 82.5
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 87.1
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 65.4
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 85.0
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 88.75
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "其他偏见",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 86.59
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 84.21
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 86.65
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 88.19
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 90.33
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 91.33
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 91.62
+              },
+              {
+                "model": "qwen2-57b-a14b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 99.8
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 92.42
+              },
+              {
+                "model": "Doubao-pro-128k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "moonshot-v1-128k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 91.42
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 83.65
+              },
+              {
+                "model": "ERNIE-4.0-8K",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 99.6
+              },
+              {
+                "model": "llama3-70b-8192",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "abab6.5g-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 89.0
+              },
+              {
+                "model": "Mixtral 8x7B",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "yi-spark",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 77.65
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 69.85
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 90.1
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 92.85
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 92.85
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 78.85
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 74.85
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 58.6
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 76.1
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 84.3
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 84.45
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 75.9
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 77.5
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 83.65
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 76.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "种族/民族偏见",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 87.94
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 88.75
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 88.44
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 88.45
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 93.26
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 93.42
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 92.45
+              },
+              {
+                "model": "qwen2-57b-a14b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 99.8
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 92.58
+              },
+              {
+                "model": "Doubao-pro-128k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "moonshot-v1-128k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 96.15
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 80.9
+              },
+              {
+                "model": "ERNIE-4.0-8K",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 99.6
+              },
+              {
+                "model": "llama3-70b-8192",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "abab6.5g-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 89.0
+              },
+              {
+                "model": "Mixtral 8x7B",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "yi-spark",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 91.65
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 72.4
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 93.2
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 87.3
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 92.2
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 86.15
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 85.45
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 60.65
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 84.7
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 84.65
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 89.9
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 86.6
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 82.7
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 85.9
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "地域歧视",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 87.32
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 86.97
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 88.63
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 89.83
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 98.26
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 92.45
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 92.38
+              },
+              {
+                "model": "qwen2-57b-a14b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 99.8
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 93.62
+              },
+              {
+                "model": "Doubao-pro-128k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "moonshot-v1-128k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 92.72
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 82.58
+              },
+              {
+                "model": "ERNIE-4.0-8K",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 99.6
+              },
+              {
+                "model": "llama3-70b-8192",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "abab6.5g-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 89.0
+              },
+              {
+                "model": "Mixtral 8x7B",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "yi-spark",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 84.9
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 75.1
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 92.5
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 89.2
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 90.7
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 83.95
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 77.45
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 55.95
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 81.85
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 83.25
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 84.5
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 85.05
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 79.4
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 84.8
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 71.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "宗教歧视",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 80.77
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 80.71
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 78.9
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 82.04
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 85.61
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 88.28
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 89.62
+              },
+              {
+                "model": "qwen2-57b-a14b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 99.8
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 87.17
+              },
+              {
+                "model": "Doubao-pro-128k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "moonshot-v1-128k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 89.92
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 84.83
+              },
+              {
+                "model": "ERNIE-4.0-8K",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 99.6
+              },
+              {
+                "model": "llama3-70b-8192",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "abab6.5g-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 89.0
+              },
+              {
+                "model": "Mixtral 8x7B",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "yi-spark",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 77.1
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 54.65
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 85.7
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 79.15
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 79.7
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 78.3
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 68.4
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 61.95
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 74.1
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 69.4
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 80.3
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 72.25
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 69.6
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 76.95
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 86.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "内容合规性",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 95.97
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 97.14
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 96.81
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 98.65
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 97.02
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 97.31
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 90.71
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 97.72
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 97.17
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 95.87
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 97.77
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 94.53
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 99.92
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 92.6
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 97.19
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 99.59
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 96.77
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 97.35
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 95.94
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 94.58
+              },
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 85.43
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 85.95
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 71.9
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 94.85
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 93.69
+              },
+              {
+                "model": "Doubao-pro-128k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 89.0
+              },
+              {
+                "model": "moonshot-v1-128k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 93.0
+              },
+              {
+                "model": "qwen2-57b-a14b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 94.0
+              },
+              {
+                "model": "ERNIE-4.0-8K",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 91.0
+              },
+              {
+                "model": "llama3-70b-8192",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 93.0
+              },
+              {
+                "model": "abab6.5g-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 71.8
+              },
+              {
+                "model": "Mixtral 8x7B",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 93.6
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "事实验证",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 80.9
+              },
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 82.39
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 74.81
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 79.92
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 78.23
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 79.11
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 76.2
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 76.83
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 75.34
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 82.08
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 94.7
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 89.5
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 89.5
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 84.2
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 94.7
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 94.7
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 100.0
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 94.7
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 89.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "幻觉",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 59.84
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 63.2
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 78.0
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 86.0
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 67.0
+              },
+              {
+                "model": "Baichuan3-Turbo",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 70.5
+              },
+              {
+                "model": "Doubao-pro-32k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 68.0
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 73.0
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 63.0
+              },
+              {
+                "model": "glm-4-flash",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 59.0
+              },
+              {
+                "model": "Mixtral 8x7B",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 54.0
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 67.0
+              },
+              {
+                "model": "step-1-8k",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 58.5
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 69.5
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 63.0
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 73.5
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 60.5
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 68.5
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 68.5
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 66.0
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 74.0
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 69.0
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 78.5
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 77.5
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 69.0
+              },
+              {
+                "model": "claude-3-haiku",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 52.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "常识",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 60.0
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 50.0
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 87.5
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 74.0
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 70.0
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 82.0
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 85.5
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 77.5
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 69.5
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 72.0
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 57.0
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 70.5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "提示鲁棒性",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 76.54
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 74.66
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 77.75
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 84.75
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 78.1
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 73.25
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 77.8
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 63.85
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 77.7
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 78.5
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 74.95
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 74.5
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 76.2
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 73.2
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 76.95
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 80.75
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 77.55
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 80.35
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 64.5
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 78.85
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 75.15
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 82.55
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 77.3
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "目标劫持",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 79.0
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 75.0
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 68.0
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 96.0
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 89.0
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 91.0
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 100.0
+              },
+              {
+                "model": "Doubao-pro-128k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 85.8
+              },
+              {
+                "model": "moonshot-v1-128k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 81.8
+              },
+              {
+                "model": "qwen2-57b-a14b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 94.4
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 88.2
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 97.4
+              },
+              {
+                "model": "ERNIE-4.0-8K",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 98.6
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 96.6
+              },
+              {
+                "model": "abab6.5g-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 70.6
+              },
+              {
+                "model": "llama3-70b-8192",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 88.6
+              },
+              {
+                "model": "Mixtral 8x7B",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 87.8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "多语言LLM安全性",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 58.1
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 55.6
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 51.7
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 77.3
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 65.0
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 52.7
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 61.9
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 69.1
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 55.2
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 50.4
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 51.1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "毒性评估",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 86.32
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 78.67
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 79.95
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 79.49
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 79.82
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 80.79
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 85.56
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 84.24
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 80.89
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 79.72
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 79.22
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 86.46
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 78.53
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 79.42
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 76.17
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 88.2
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 85.72
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 77.53
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 78.01
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 98.15
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 95.1
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 88.6
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 94.1
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 92.15
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 70.35
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "谬误理解能力",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 100.0
+              },
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 100.0
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 100.0
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 90.0
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 95.0
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 100.0
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 90.0
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 100.0
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 100.0
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 95.0
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 100.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "指令遵循能力",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 61.39
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "逻辑和分析推理能力",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 75.5
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 79.34
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 50.0
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 66.67
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 73.81
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 75.79
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 79.37
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 86.11
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 78.97
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 86.51
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 80.75
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 76.98
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 86.51
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 83.33
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 82.14
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 79.76
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 77.78
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 77.38
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 72.62
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 90.48
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "伦理道德",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 71.12
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 85.0
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 93.08
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 91.92
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 98.5
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 98.95
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 97.5
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 94.65
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 98.6
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 99.8
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 85.3
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 71.5
+              },
+              {
+                "model": "gpt-4-turbo",
+                "company": "Openai",
+                "open_source": "闭源",
+                "score": 98.8
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 99.1
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 76.5
+              },
+              {
+                "model": "internlm2.5-latest",
+                "company": "上海人工智能实验室",
+                "open_source": "开源",
+                "score": 99.35
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 98.5
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 96.55
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 98.45
+              },
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 79.12
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "公平性",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "gemma2:27b",
+                "company": "Google",
+                "open_source": "开源",
+                "score": 84.71
+              },
+              {
+                "model": "llama-3.3-70b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 89.47
+              },
+              {
+                "model": "phi4",
+                "company": "Microsoft",
+                "open_source": "开源",
+                "score": 98.73
+              },
+              {
+                "model": "deepseek-r1",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 99.0
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "qwen2-57b-a14b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 99.8
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "Doubao-pro-128k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "moonshot-v1-128k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 100.0
+              },
+              {
+                "model": "ERNIE-4.0-8K",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 99.6
+              },
+              {
+                "model": "llama3-70b-8192",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "abab6.5g-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 89.0
+              },
+              {
+                "model": "Mixtral 8x7B",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 99.0
+              },
+              {
+                "model": "yi-spark",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 100.0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "domain": "通用",
+        "dimension": "无谄媚",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "model": "qwen2.5-max",
+                "company": "阿里巴巴",
+                "open_source": "闭源",
+                "score": 50.45
+              },
+              {
+                "model": "Baichuan4",
+                "company": "百川智能",
+                "open_source": "闭源",
+                "score": 64.74
+              },
+              {
+                "model": "claude-3-5-sonnet",
+                "company": "Anthropic",
+                "open_source": "闭源",
+                "score": 64.19
+              },
+              {
+                "model": "deepseek-V2",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 65.58
+              },
+              {
+                "model": "Doubao-pro-4k",
+                "company": "字节跳动",
+                "open_source": "闭源",
+                "score": 60.21
+              },
+              {
+                "model": "ERNIE-4.0-8K-Latest",
+                "company": "百度",
+                "open_source": "闭源",
+                "score": 66.54
+              },
+              {
+                "model": "gemini-1.5-pro",
+                "company": "Google",
+                "open_source": "闭源",
+                "score": 66.41
+              },
+              {
+                "model": "360gpt2-pro",
+                "company": "360",
+                "open_source": "闭源",
+                "score": 67.39
+              },
+              {
+                "model": "hunyuan-pro",
+                "company": "腾讯",
+                "open_source": "闭源",
+                "score": 65.49
+              },
+              {
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 66.25
+              },
+              {
+                "model": "abab6.5s-chat",
+                "company": "Minimax",
+                "open_source": "闭源",
+                "score": 66.31
+              },
+              {
+                "model": "Mistral Large",
+                "company": "Mistral AI",
+                "open_source": "开源",
+                "score": 67.74
+              },
+              {
+                "model": "moonshot-v1-8k",
+                "company": "月之暗面",
+                "open_source": "闭源",
+                "score": 65.65
+              },
+              {
+                "model": "qwen2-72b-instruct",
+                "company": "阿里巴巴",
+                "open_source": "开源",
+                "score": 68.02
+              },
+              {
+                "model": "Sensechat-5",
+                "company": "商汤科技",
+                "open_source": "闭源",
+                "score": 67.71
+              },
+              {
+                "model": "Spark4.0 Ultra",
+                "company": "科大讯飞",
+                "open_source": "闭源",
+                "score": 65.61
+              },
+              {
+                "model": "step-2-16k-nightly",
+                "company": "阶跃星辰",
+                "open_source": "闭源",
+                "score": 65.74
+              },
+              {
+                "model": "yi-large-turbo",
+                "company": "零一万物",
+                "open_source": "闭源",
+                "score": 67.89
+              },
+              {
+                "model": "glm-4-0520",
+                "company": "智谱华章",
+                "open_source": "闭源",
+                "score": 64.95
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "FIN": [
+      {
+        "dimension": "The overall ranking of financial capabilities",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "rank": "*",
+                "model": "zhilu2-70B",
+                "company": "中山大学-招联数字金融联合研究中心",
+                "open_source": "闭源",
+                "score": 0.8001,
+                "remark": "*模型仅供参考，不参与实际排名"
+              },
+              {
+                "rank": 1,
+                "model": "gpt-4-turbo-2024-04-09",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 0.7612,
+                "remark": " "
+              },
+              {
+                "rank": 2,
+                "model": "deepseek-chat-v3",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 0.7596,
+                "remark": " "
+              },
+              {
+                "rank": 3,
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 0.7476,
+                "remark": " "
+              },
+              {
+                "rank": 4,
+                "model": "qwen2.5-72b-instruct",
+                "company": "阿里云",
+                "open_source": "开源",
+                "score": 0.7439,
+                "remark": " "
+              },
+              {
+                "rank": 5,
+                "model": "gpt-4o-mini",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 0.7257,
+                "remark": " "
+              },
+              {
+                "rank": 6,
+                "model": "qwen2.5-7b-instruct",
+                "company": "阿里云",
+                "open_source": "开源",
+                "score": 0.7148,
+                "remark": " "
+              },
+              {
+                "rank": 7,
+                "model": "gpt-3.5-turbo",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 0.7047,
+                "remark": " "
+              },
+              {
+                "rank": 8,
+                "model": "glm-4-0520",
+                "company": "智谱",
+                "open_source": "闭源",
+                "score": 0.6996,
+                "remark": " "
+              },
+              {
+                "rank": 9,
+                "model": "Llama3.1-70B-Chinese-Chat",
+                "company": "哈工大讯飞联合实验室",
+                "open_source": "开源",
+                "score": 0.6948,
+                "remark": " "
+              },
+              {
+                "rank": 10,
+                "model": "Tongyi-Finance-14B",
+                "company": "阿里云",
+                "open_source": "开源",
+                "score": 0.6153,
+                "remark": " "
+              },
+              {
+                "rank": 11,
+                "model": "Llama3-XuanYuan3-70B-Chat",
+                "company": "度小满",
+                "open_source": "开源",
+                "score": 0.6089,
+                "remark": " "
+              },
+              {
+                "rank": 12,
+                "model": "zhilu2-8B",
+                "company": "中山大学-招联数字金融联合研究中心",
+                "open_source": "开源",
+                "score": 0.5382,
+                "remark": " "
+              },
+              {
+                "rank": 13,
+                "model": "XuanYuan-6B-Chat",
+                "company": "度小满",
+                "open_source": "开源",
+                "score": 0.5007,
+                "remark": " "
+              },
+              {
+                "rank": 14,
+                "model": "Finance-llama3_1_8B_instruct",
+                "company": "None",
+                "open_source": "开源",
+                "score": 0.47,
+                "remark": " "
+              },
+              {
+                "rank": 15,
+                "model": "chinese-alpaca-2-13b",
+                "company": "哈工大讯飞联合实验室",
+                "open_source": "开源",
+                "score": 0.4672,
+                "remark": " "
+              },
+              {
+                "rank": 16,
+                "model": "DISC-FinLLM（13B）",
+                "company": "复旦大学数据智能与社会计算实验室",
+                "open_source": "开源",
+                "score": 0.4235,
+                "remark": " "
+              },
+              {
+                "rank": 17,
+                "model": "llama3-chinese-instruct-v3",
+                "company": "哈工大讯飞联合实验室",
+                "open_source": "开源",
+                "score": 0.3431,
+                "remark": " "
+              },
+              {
+                "rank": 18,
+                "model": "zhilu-1-instruct",
+                "company": "中山大学-招联数字金融联合研究中心",
+                "open_source": "开源",
+                "score": 0.2835,
+                "remark": " "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dimension": "Financial Knowledge",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "rank": "*",
+                "model": "zhilu2-70B",
+                "company": "中山大学-招联数字金融联合研究中心",
+                "open_source": "闭源",
+                "score": 0.6417,
+                "remark": "*模型仅供参考，不参与实际排名"
+              },
+              {
+                "rank": 1,
+                "model": "qwen2.5-7b-instruct",
+                "company": "阿里云",
+                "open_source": "开源",
+                "score": 0.6957,
+                "remark": " "
+              },
+              {
+                "rank": 2,
+                "model": "qwen2.5-72b-instruct",
+                "company": "阿里云",
+                "open_source": "开源",
+                "score": 0.6904,
+                "remark": " "
+              },
+              {
+                "rank": 3,
+                "model": "deepseek-chat-v3",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 0.6322,
+                "remark": " "
+              },
+              {
+                "rank": 4,
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 0.5975,
+                "remark": " "
+              },
+              {
+                "rank": 5,
+                "model": "glm-4-0520",
+                "company": "智谱",
+                "open_source": "闭源",
+                "score": 0.5959,
+                "remark": " "
+              },
+              {
+                "rank": 6,
+                "model": "gpt-3.5-tubo",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 0.5749,
+                "remark": " "
+              },
+              {
+                "rank": 7,
+                "model": "gpt-4o-mini",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 0.5746,
+                "remark": " "
+              },
+              {
+                "rank": 8,
+                "model": "gpt-4-turbo-2024-04-09",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 0.5722,
+                "remark": " "
+              },
+              {
+                "rank": 9,
+                "model": "Llama3.1-70B-Chinese-Chat",
+                "company": "哈工大讯飞联合实验室",
+                "open_source": "开源",
+                "score": 0.5423,
+                "remark": " "
+              },
+              {
+                "rank": 10,
+                "model": "Tongyi-Finance-14B",
+                "company": "阿里云",
+                "open_source": "开源",
+                "score": 0.5146,
+                "remark": " "
+              },
+              {
+                "rank": 11,
+                "model": "zhilu2-8B",
+                "company": "中山大学-招联数字金融联合研究中心",
+                "open_source": "开源",
+                "score": 0.4898,
+                "remark": " "
+              },
+              {
+                "rank": 12,
+                "model": "Llama3-XuanYuan3-70B-Chat",
+                "company": "度小满",
+                "open_source": "开源",
+                "score": 0.4487,
+                "remark": " "
+              },
+              {
+                "rank": 13,
+                "model": "XuanYuan-6B-Chat",
+                "company": "度小满",
+                "open_source": "开源",
+                "score": 0.4401,
+                "remark": " "
+              },
+              {
+                "rank": 14,
+                "model": "llama3-8b-chinese-instruct-v3",
+                "company": "哈工大讯飞联合实验室",
+                "open_source": "开源",
+                "score": 0.4269,
+                "remark": " "
+              },
+              {
+                "rank": 15,
+                "model": "Finance-llama3_1_8B_instruct",
+                "company": "None",
+                "open_source": "开源",
+                "score": 0.4072,
+                "remark": " "
+              },
+              {
+                "rank": 16,
+                "model": "chinese-alpaca-2-13b",
+                "company": "哈工大讯飞联合实验室",
+                "open_source": "开源",
+                "score": 0.3865,
+                "remark": " "
+              },
+              {
+                "rank": 17,
+                "model": "DISC-FinLLM（13B）",
+                "company": "复旦大学数据智能与社会计算实验室",
+                "open_source": "开源",
+                "score": 0.3753,
+                "remark": " "
+              },
+              {
+                "rank": 18,
+                "model": "zhilu1-13b-nstruct",
+                "company": "中山大学-招联数字金融联合研究中心",
+                "open_source": "开源",
+                "score": 0.3696,
+                "remark": " "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dimension": "financial services",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "rank": "*",
+                "model": "zhilu2-70B",
+                "company": "中山大学-招联数字金融联合研究中心",
+                "open_source": "闭源",
+                "score": 0.8219,
+                "remark": "*模型仅供参考，不参与实际排名"
+              },
+              {
+                "rank": 1,
+                "model": "gpt-4-turbo-2024-04-09",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 0.7937,
+                "remark": " "
+              },
+              {
+                "rank": 2,
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 0.7615,
+                "remark": " "
+              },
+              {
+                "rank": 3,
+                "model": "deepseek-chat-v3",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 0.7364,
+                "remark": " "
+              },
+              {
+                "rank": 4,
+                "model": "glm-4-0520",
+                "company": "智谱",
+                "open_source": "闭源",
+                "score": 0.7267,
+                "remark": " "
+              },
+              {
+                "rank": 5,
+                "model": "gpt-4o-mini",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 0.6931,
+                "remark": " "
+              },
+              {
+                "rank": 6,
+                "model": "gpt-3.5-turbo",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 0.6844,
+                "remark": " "
+              },
+              {
+                "rank": 7,
+                "model": "Llama3-70B-Chinese-Chat",
+                "company": "哈工大讯飞联合实验室",
+                "open_source": "开源",
+                "score": 0.6807,
+                "remark": " "
+              },
+              {
+                "rank": 8,
+                "model": "qwen2.5-72b-instruct",
+                "company": "阿里云",
+                "open_source": "开源",
+                "score": 0.6673,
+                "remark": " "
+              },
+              {
+                "rank": 9,
+                "model": "qwen2.5-7b-instruct",
+                "company": "阿里云",
+                "open_source": "开源",
+                "score": 0.6287,
+                "remark": " "
+              },
+              {
+                "rank": 10,
+                "model": "Tongyi-Finance-14B",
+                "company": "阿里云",
+                "open_source": "开源",
+                "score": 0.5882,
+                "remark": " "
+              },
+              {
+                "rank": 11,
+                "model": "XuanYuan-6B-Chat",
+                "company": "度小满",
+                "open_source": "开源",
+                "score": 0.5293,
+                "remark": " "
+              },
+              {
+                "rank": 12,
+                "model": "zhilu2-8B",
+                "company": "中山大学-招联数字金融联合研究中心",
+                "open_source": "开源",
+                "score": 0.4882,
+                "remark": " "
+              },
+              {
+                "rank": 13,
+                "model": "chinese-alpaca-2-13b",
+                "company": "哈工大讯飞联合实验室",
+                "open_source": "开源",
+                "score": 0.4686,
+                "remark": " "
+              },
+              {
+                "rank": 14,
+                "model": "Llama3-XuanYuan3-70B-Chat",
+                "company": "度小满",
+                "open_source": "开源",
+                "score": 0.4364,
+                "remark": " "
+              },
+              {
+                "rank": 15,
+                "model": "Finance-llama3_1_8B_instruct",
+                "company": "None",
+                "open_source": "开源",
+                "score": 0.3941,
+                "remark": " "
+              },
+              {
+                "rank": 16,
+                "model": "llama3-chinese-instruct-v3",
+                "company": "哈工大讯飞联合实验室",
+                "open_source": "开源",
+                "score": 0.3877,
+                "remark": " "
+              },
+              {
+                "rank": 17,
+                "model": "zhilu1-13b-instruct",
+                "company": "中山大学-招联数字金融联合研究中心",
+                "open_source": "开源",
+                "score": 0.3832,
+                "remark": " "
+              },
+              {
+                "rank": 18,
+                "model": "DISC-FinLLM（13B）",
+                "company": "复旦大学数据智能与社会计算实验室",
+                "open_source": "开源",
+                "score": 0.2864,
+                "remark": " "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "dimension": "financial agency",
+        "score_lists": [
+          {
+            "lang": "总榜",
+            "list": [
+              {
+                "rank": "*",
+                "model": "zhilu2-70B",
+                "company": "中山大学-招联数字金融联合研究中心",
+                "open_source": "闭源",
+                "score": 0.9368,
+                "remark": "*模型仅供参考，不参与实际排名"
+              },
+              {
+                "rank": 1,
+                "model": "gpt-4-turbo-2024-04-09",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 0.9176,
+                "remark": " "
+              },
+              {
+                "rank": 2,
+                "model": "deepseek-chat-v3",
+                "company": "深度求索",
+                "open_source": "开源",
+                "score": 0.9101,
+                "remark": " "
+              },
+              {
+                "rank": 3,
+                "model": "gpt-3.5-turbo",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 0.9097,
+                "remark": " "
+              },
+              {
+                "rank": 4,
+                "model": "qwen2.5-72b-instruct",
+                "company": "阿里云",
+                "open_source": "开源",
+                "score": 0.8969,
+                "remark": " "
+              },
+              {
+                "rank": 5,
+                "model": "Llama-3.1-405b",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 0.884,
+                "remark": " "
+              },
+              {
+                "rank": 6,
+                "model": "gpt-4o-mini",
+                "company": "OpenAI",
+                "open_source": "闭源",
+                "score": 0.8758,
+                "remark": " "
+              },
+              {
+                "rank": 7,
+                "model": "Llama3-70B-Chinese-Chat",
+                "company": "Meta",
+                "open_source": "开源",
+                "score": 0.8613,
+                "remark": " "
+              },
+              {
+                "rank": 8,
+                "model": "glm-4-0520",
+                "company": "智谱",
+                "open_source": "闭源",
+                "score": 0.8098,
+                "remark": " "
+              },
+              {
+                "rank": 9,
+                "model": "Tongyi-Finance-14B",
+                "company": "阿里云",
+                "open_source": "开源",
+                "score": 0.802,
+                "remark": " "
+              },
+              {
+                "rank": 10,
+                "model": "Llama3-XuanYuan3-70B-Chat",
+                "company": "度小满",
+                "open_source": "开源",
+                "score": 0.7899,
+                "remark": " "
+              },
+              {
+                "rank": 11,
+                "model": "qwen2.5-7b-instruct",
+                "company": "阿里云",
+                "open_source": "开源",
+                "score": 0.7814,
+                "remark": " "
+              },
+              {
+                "rank": 12,
+                "model": "zhilu2-8B",
+                "company": "中山大学-招联数字金融联合研究中心",
+                "open_source": "开源",
+                "score": 0.6366,
+                "remark": " "
+              },
+              {
+                "rank": 13,
+                "model": "chinese-alpaca-2-13b",
+                "company": "哈工大讯飞联合实验室",
+                "open_source": "开源",
+                "score": 0.6211,
+                "remark": " "
+              },
+              {
+                "rank": 14,
+                "model": "XuanYuan-6B-Chat",
+                "company": "度小满",
+                "open_source": "开源",
+                "score": 0.5932,
+                "remark": " "
+              },
+              {
+                "rank": 15,
+                "model": "Finance-llama3_1_8B_instruct",
+                "company": "None",
+                "open_source": "开源",
+                "score": 0.5665,
+                "remark": " "
+              },
+              {
+                "rank": 16,
+                "model": "DISC-FinLLM（13B）",
+                "company": "复旦大学数据智能与社会计算实验室",
+                "open_source": "开源",
+                "score": 0.5075,
+                "remark": " "
+              },
+              {
+                "rank": 17,
+                "model": "llama3-chinese-instruct-v3",
+                "company": "哈工大讯飞联合实验室",
+                "open_source": "开源",
+                "score": 0.3159,
+                "remark": " "
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

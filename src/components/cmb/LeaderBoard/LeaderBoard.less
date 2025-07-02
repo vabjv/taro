@@ -1,0 +1,29 @@
+.page-container {
+    padding: 24px;
+  }
+  
+  .tabs-container {
+    min-height: 500px;
+  }
+  
+  .tab-header {
+    background: #0e42d2;
+    padding: 19px 16px;
+    margin-bottom: 16px;
+    
+    .title {
+      color: #fff;
+      margin: 0;
+      font-size: 18px;
+      font-weight: bold;
+    }
+  }
+  
+  @media (max-width: 800px) {
+    .tabs-container {
+      :global(.nut-tabs__titles) {
+        flex-direction: row !important;
+        overflow-x: auto;
+      }
+    }
+  }
